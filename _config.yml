@@ -1,8 +1,8 @@
 permalink: /:title
 
-title: 00000.com
-url: http://beiyuu.com
+title: zhangbo18172882.com
+url: http://zhangbo1817.gitlab.io
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="http://zhangbo1817.gitlab.io/">zhangbo</a>
 
 theme: jekyll-theme-slate
